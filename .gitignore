@@ -1,0 +1,11 @@
+*backups/
+*.FCBak
+*.FCStd
+*-bak
+*auto_saved_files#
+~*
+hardware
+*.step
+v1.*
+.history/
+*.zip
